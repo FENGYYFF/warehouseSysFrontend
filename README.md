@@ -1,4 +1,4 @@
-# wms-web
+# warehouseSysFrontend
 
 ## Project setup
 ```
